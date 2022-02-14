@@ -1,0 +1,5 @@
+/home/jean/Documentos/jeanmamelo/java-ecommerce-kafka/common-kafka/src/main/java/br/com/jeanmamelo/ecommerce/GsonSerializer.java
+/home/jean/Documentos/jeanmamelo/java-ecommerce-kafka/common-kafka/src/main/java/br/com/jeanmamelo/ecommerce/GsonDeserializer.java
+/home/jean/Documentos/jeanmamelo/java-ecommerce-kafka/common-kafka/src/main/java/br/com/jeanmamelo/ecommerce/KafkaService.java
+/home/jean/Documentos/jeanmamelo/java-ecommerce-kafka/common-kafka/src/main/java/br/com/jeanmamelo/ecommerce/KafkaDispatcher.java
+/home/jean/Documentos/jeanmamelo/java-ecommerce-kafka/common-kafka/src/main/java/br/com/jeanmamelo/ecommerce/ConsumerFunction.java
